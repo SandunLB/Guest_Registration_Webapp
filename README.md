@@ -1,1 +1,1 @@
-**still In development**
+**Guest Registration & QR code Generation Website**
